@@ -81,6 +81,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "lyrics-app"
+    }
+  },
+  "defaultProject": "lyrics-app",
+  "cli": {
+    "analytics": false
+  }
 }
