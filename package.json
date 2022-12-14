@@ -11,27 +11,29 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "~8.2.13",
-    "@angular/common": "~8.2.13",
-    "@angular/compiler": "~8.2.13",
-    "@angular/core": "~8.2.13",
-    "@angular/forms": "~8.2.13",
-    "@angular/platform-browser": "~8.2.13",
-    "@angular/platform-browser-dynamic": "~8.2.13",
-    "@angular/router": "~8.2.13",
+    "@angular/animations": "^15.0.3",
+    "@angular/common": "^15.0.3",
+    "@angular/compiler": "^15.0.3",
+    "@angular/core": "^15.0.3",
+    "@angular/forms": "^15.0.3",
+    "@angular/platform-browser": "^15.0.3",
+    "@angular/platform-browser-dynamic": "^15.0.3",
+    "@angular/router": "^15.0.3",
     "lyricsovh-lib": "^1.0.2",
-    "rxjs": "~6.4.0",
-    "tslib": "^1.10.0",
-    "zone.js": "~0.9.1"
+    "rxjs": "~7.6.0",
+    "tslib": "^2.0.0",
+    "zone.js": "~0.12.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.803.18",
-    "@angular/cli": "~8.3.18",
-    "@angular/compiler-cli": "~8.2.13",
-    "@angular/language-service": "~8.2.13",
-    "@types/node": "~8.9.4",
-    "ts-node": "~7.0.0",
-    "tslint": "~5.15.0",
-    "typescript": "~3.5.3"
+    "@angular-devkit/build-angular": "^15.0.3",
+    "@angular/cli": "^15.0.3",
+    "@angular/compiler-cli": "^15.0.3",
+    "@angular/language-service": "^15.0.3",
+    "@types/node": "^12.11.1",
+    "@typescript-eslint/eslint-plugin": "^5.46.1",
+    "@typescript-eslint/parser": "^5.46.1",
+    "eslint": "^8.29.0",
+    "ts-node": "~10.9.1",
+    "typescript": "~4.8.4"
   }
 }
